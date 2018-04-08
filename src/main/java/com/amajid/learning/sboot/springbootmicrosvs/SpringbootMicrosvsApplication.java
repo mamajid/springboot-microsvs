@@ -7,7 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringbootMicrosvsApplication {
 
 	public static void main(String[] args) {
-		System.out.println("SpringbootMicrosvsApplication.main");
+		System.out.println("Welcome to SpringBoot! SpringbootMicrosvsApplication.main");
+		System.out.println("Where there is a will, there is a way");
 		SpringApplication.run(SpringbootMicrosvsApplication.class, args);
 	}
 }
